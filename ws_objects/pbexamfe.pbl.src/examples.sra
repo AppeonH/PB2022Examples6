@@ -1,4 +1,4 @@
-HA$PBExportHeader$examples.sra
+﻿$PBExportHeader$examples.sra
 $PBExportComments$PowerBuilder Code Examples Application
 forward
 global type examples from application
@@ -53,7 +53,7 @@ long richtexteditx64type = 3
 long richtexteditversion = 2
 string richtexteditkey = ""
 string appicon = "Pbex.ico"
-string appruntimeversion = "22.0.0.1378"
+string appruntimeversion = "22.0.0.1387"
 boolean manualsession = false
 boolean unsupportedapierror = true
 end type
